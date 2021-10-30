@@ -1,4 +1,4 @@
-# Flower Animation
+# Stop Watch UI Animation
 
 A new Flutter project.
 
